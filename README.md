@@ -1,2 +1,2 @@
 # auto-save-function
-A simple autosave function, I called this function in Pega screen refresh to commit the page
+A simple autosave function, calling this function can bring up auto-save functionality
